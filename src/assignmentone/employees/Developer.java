@@ -1,4 +1,4 @@
-package assignment1.employee;
+package assignmentone.employees;
 
 public class Developer extends Employee {
     private String programmingLanguage;

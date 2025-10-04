@@ -1,20 +1,15 @@
-package assignment1.employee;
+package assignmentone.employees;
 
 public class Employee {
     private String name;
     private int employeeId;
     private double salary;
 
-    /**
-     * Constructor to initialize employee details.
-     */
-    public Employee(String name, int employeeId, double salary) {
-        this.name = name;
-        this.employeeId = employeeId;
-        this.salary = salary;
-    }
+    public Employee(String name2, int employeeId2, double salary2) {
+		// TODO Auto-generated constructor stub
+	}
 
-    // Getters and Setters
+	// Getters and Setters
     public String getName() {
         return name;
     }
